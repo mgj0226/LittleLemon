@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Form</title>
+</head>
+<body>
+    <form action="/registration" method="post">
+        <p class="question"><b>Are you left/right-handed?</b><br>
+        <input type="radio" name="ans" value="Right"> 
+        <label class="ans" for="ans">I am right-handed </label>
+        <input type="radio" name="ans" value="Left"> 
+        <label class="ans" for="ans">I am left-handed </label><br></p>
+        <p class="question"><b><i>Are you human or robot?</i></b><br>
+        <input type="radio" name="lock" value="YeS" checked> 
+        <label class="ans" for="lock">I am human </label>
+        <input type="radio" name="lock" id="dis" disabled> 
+        <label class="ans" for="lock">I am robot </label><br></p>
+    
+        <label for="username">Username:</label><br>
+        <input type="text"name="username">
+    
+        <label for="password">Password:</label><br>
+        <input type="password" />
+        <input type="checkbox" name="yes" value="Yes" />
+        <label for="yes">no</label>
+        <input type="checkbox" name="YES" value="yES" />
+        <label for="YES">NO</label>
+        <input type="submit" />
+    </form>
+    <a class="navi" href="index_t0101.html"><h4>Front Page</h4></a>
+    <a class="navi" href="sampletags0101.html"><h4>Sample Tags</h4></a>
+</body>
+</html>
