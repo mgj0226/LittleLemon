@@ -1,0 +1,51 @@
+.reservations {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  margin-bottom: 50px;
+}
+.reservationsTitle {
+  justify-content: center;
+  align-items: center;
+  margin-top: 0;
+  padding: 0.5em 10em;
+  font-family: "Markazi Text", serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-size: 6rem;
+  background-color: #495E57;
+  color: #EDEFEE;
+}
+
+.bookingForm {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  font-family: "karla", sans-serif;
+  font-size: 2rem;
+  font-weight: 400;
+  gap: 1em;
+}
+.bookingForm label {
+  color: #495E57;
+}
+.bookingForm input, .bookingForm select {
+  width: 100%;
+  height: 20px;
+  color: #495E57;
+}
+.bookingForm .submitBtn {
+  width: 20em;
+  height: 3em;
+  font-weight: 700;
+  padding: 1rem 2rem;
+  border: #F4CE14;
+  border-radius: 15px;
+  background-color: #F4CE14;
+}
+.bookingForm .submitBtn:hover {
+  scale: 1.1;
+}/*# sourceMappingURL=Reservations.css.map */
