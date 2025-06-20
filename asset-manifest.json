@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/littlelemon/static/css/main.dc312d31.css",
+    "main.js": "/littlelemon/static/js/main.6ba7e916.js",
+    "static/js/453.c3391be9.chunk.js": "/littlelemon/static/js/453.c3391be9.chunk.js",
+    "static/media/Mario and Adrian b.jpg": "/littlelemon/static/media/Mario and Adrian b.6ba0e06bfa9c1ea75109.jpg",
+    "static/media/bruchetta.svg": "/littlelemon/static/media/bruchetta.ec4950d4eabf4293f4120e3b6c48b7cf.svg",
+    "static/media/greek salad.jpg": "/littlelemon/static/media/greek salad.bed423a1fab5b210e347.jpg",
+    "static/media/restaurantfood.jpg": "/littlelemon/static/media/restaurantfood.e8abf5b772b6817189aa.jpg",
+    "static/media/Logo.svg": "/littlelemon/static/media/Logo.2c379c7ea7eb07402bfc7700915316de.svg",
+    "static/media/constructionSign.svg": "/littlelemon/static/media/constructionSign.e7179f0340f42984a07e8adf437281f8.svg",
+    "static/media/confirmStar.svg": "/littlelemon/static/media/confirmStar.f4502d8ffb7a6d56a19008bd06df976d.svg",
+    "static/media/directions_bike.svg": "/littlelemon/static/media/directions_bike.bfd387edb73f86722f857f5ba1675300.svg",
+    "index.html": "/littlelemon/index.html",
+    "static/media/yellowStar.svg": "/littlelemon/static/media/yellowStar.f7b630207915c27c2f96e1ddae4758e5.svg",
+    "main.dc312d31.css.map": "/littlelemon/static/css/main.dc312d31.css.map",
+    "main.6ba7e916.js.map": "/littlelemon/static/js/main.6ba7e916.js.map",
+    "453.c3391be9.chunk.js.map": "/littlelemon/static/js/453.c3391be9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dc312d31.css",
+    "static/js/main.6ba7e916.js"
+  ]
+}
