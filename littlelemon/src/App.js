@@ -8,7 +8,7 @@ import Reservations from './components/Reservations';
 import Confirmed from './components/Reservations/Confirmed';
 function App() {
   return (
-    <Router>
+    <Router basename='/LittleLemon'>
       <div className='body'>
         <Header className='header' />
         <Routes>
